@@ -37,7 +37,7 @@ U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\
 
 ---
 
-## 🟩 Step 2: Data Preprocessing & Feature Engineering
+## 🟩 Step 3: Data Preprocessing & Feature Engineering
 
 - **Encode categorical variables**:
   - `Gender`, `Promotion_Response`, and `Email_Opt_In` using dummy variables or one-hot encoding.
@@ -52,7 +52,7 @@ U(Customer) = w^+(P_{\text{stay}})\times V(\text{Gain}) - w^-(P_{\text{churn}})\
 
 ---
 
-## 🟩 Step 2: Machine Learning with Utility Functions
+## 🟩 Step 4: Machine Learning with Utility Functions
 
 Here are three ML strategies tailored explicitly to your data:
 
