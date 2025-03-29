@@ -117,7 +117,7 @@ Explicitly integrates probability of churn with utility, optimizing intervention
 
 ---
 
-## 🎯 **Step 3: Utility-Based Promotional Targeting**
+## 🎯 **Step 5: Utility-Based Promotional Targeting**
 
 - Prioritize customers based on highest expected incremental retention utility (`Churn Risk × CLV – Cost`).
 - Focus resources on customers with high churn risk **and** high expected response to intervention (e.g., customers who previously responded to promotions).
