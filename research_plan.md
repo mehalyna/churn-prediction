@@ -83,9 +83,9 @@ Explicitly integrates probability of churn with utility, optimizing intervention
 - Compute posterior churn probabilities (`P(churn)`) using a Bayesian Classifier (e.g., Naive Bayes or Bayesian Network).
 - Decision Rule:
   - Intervene if:  
-    \[
+    $$
     E[Utility] = P(churn)\times CLV - Cost_{intervention} > 0
-    \]
+    $$
 
 - **Implementation Example**:
   ```python
